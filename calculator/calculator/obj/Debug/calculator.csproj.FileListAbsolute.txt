@@ -1,0 +1,15 @@
+D:\c#projeler\hesap makinesi\calculator\calculator\bin\Debug\calculator.exe.config
+D:\c#projeler\hesap makinesi\calculator\calculator\bin\Debug\calculator.exe
+D:\c#projeler\hesap makinesi\calculator\calculator\bin\Debug\calculator.pdb
+D:\c#projeler\hesap makinesi\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\c#projeler\hesap makinesi\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+D:\c#projeler\hesap makinesi\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\c#projeler\hesap makinesi\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\c#projeler\hesap makinesi\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\c#projeler\hesap makinesi\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\c#projeler\hesap makinesi\calculator\calculator\obj\Debug\calculator.exe
+D:\c#projeler\hesap makinesi\calculator\calculator\obj\Debug\calculator.pdb
+D:\c#projeler\hesap makinesi\calculator\calculator\bin\Debug\calculator.exe.manifest
+D:\c#projeler\hesap makinesi\calculator\calculator\bin\Debug\calculator.application
+D:\c#projeler\hesap makinesi\calculator\calculator\obj\Debug\calculator.exe.manifest
+D:\c#projeler\hesap makinesi\calculator\calculator\obj\Debug\calculator.application
